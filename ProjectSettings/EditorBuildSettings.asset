@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: 780c02f91ecdff545875d718a9b3d7f9
+  - enabled: 1
+    path: Assets/Scenes/TunnelRunner.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TunnelRunnerMenu.unity
+    guid: 6edb32de5911ead4bbc586c096d38078
+  - enabled: 1
+    path: Assets/Scenes/ShootingGallery.unity
+    guid: 2e80d12b312a62942a7bc75d8355b78e
+  - enabled: 1
+    path: Assets/Scenes/ShootingGalleryMenu.unity
+    guid: b13b7cce7ccb843479e4023a1c65f257
+  m_configObjects: {}
